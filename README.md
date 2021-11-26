@@ -1,1 +1,4 @@
-# AndiGitHubGreenFox_todo_app
+# Andi's TODO App
+
+## Opciók kiiratása
+Következőképp indítható: 'node app.js'
